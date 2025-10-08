@@ -15,6 +15,6 @@ repository = "https://codeberg.org/foxy/tree-sitter-prolog"
 commit = "39d5e4e89f336b3bbf245f6fae18473b2e8c88a5"
 path = "grammars/prolog"
 
-[language_servers.prolog-lsp]
-name = "Prolog LSP support"
-languages = ["Prolog"]
+# [language_servers.prolog-lsp]
+# name = "Prolog LSP support"
+# languages = ["Prolog"]
