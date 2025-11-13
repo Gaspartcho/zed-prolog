@@ -10,7 +10,7 @@ impl zed::Extension for ZedProlog {
 
     fn language_server_command(
         &mut self,
-        language_server_id: &zed::LanguageServerId,
+        _language_server_id: &zed::LanguageServerId,
         worktree: &zed::Worktree,
     ) -> Result<zed::Command> {
         let swipl_path = worktree
