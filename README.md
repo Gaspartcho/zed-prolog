@@ -22,6 +22,6 @@ The Language server has been disabled for stability issues. If anyone manages to
 
 ## External links
 
-Tree sitter grammar: [https://codeberg.org/foxy/tree-sitter-prolog]
+Tree sitter grammar: [https://codeberg.org/foxy/tree-sitter-prolog](https://codeberg.org/foxy/tree-sitter-prolog)
 
-~Language Server: [https://github.com/jamesnvc/lsp_server]~
+~Language Server: [https://github.com/jamesnvc/lsp_server](https://github.com/jamesnvc/lsp_server)~
